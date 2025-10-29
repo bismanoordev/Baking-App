@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg-dots {
+  background-image: url("https://sallysbakingaddiction.com/wp-content/themes/sallysbaking/assets/images/bg-dots.svg");
+  background-repeat: repeat-x;
+  background-size: contain;
+}
