@@ -14,7 +14,7 @@ import Dinner from "./Dinner";
 import Cookies from "./Cookies";
 import Icons from "./Icons";
 import SignUp from "./SignUp";
-import Classic from "./classic";
+import Classic from "./Classic";
 
 export default function Home() {
   return (
