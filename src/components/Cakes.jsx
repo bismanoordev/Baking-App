@@ -11,7 +11,7 @@ import Tools from "./Tools";
 import LatestCake from "./LatestCake";
 import Icons from "./Icons";
 import SignUp from "./SignUp";
-import Classic from "./classic";
+import Classic from "./Classic";
 
 export default function Cakes() {
   const [formData, setFormData] = useState({

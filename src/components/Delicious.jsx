@@ -11,7 +11,7 @@ import Join from "./Join";
 import LatestBKF from "./LatestBKF";
 import Icons from "./Icons";
 import SignUp from "./SignUp";
-import Classic from "./classic";
+import Classic from "./Classic";
 
 export default function Delicious() {
   const [formData, setFormData] = useState({

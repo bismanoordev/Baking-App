@@ -9,7 +9,7 @@ import Icebox from "./Icebox";
 import LatestCookies from "./LatestCookies";
 import Icons from "./Icons";
 import SignUp from "./SignUp";
-import Classic from "./classic";
+import Classic from "./Classic";
 
 
 export default function CookiesN() {

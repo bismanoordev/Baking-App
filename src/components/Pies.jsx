@@ -9,7 +9,7 @@ import TartRecipe from "./TartRecipe";
 import LatestPie from "./LatestPie";
 import Icons from "./Icons";
 import SignUp from "./SignUp";
-import Classic from "./classic";
+import Classic from "./Classic";
 
 
 

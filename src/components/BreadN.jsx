@@ -7,7 +7,7 @@ import QuickBread from "./QuickBread";
 import LatestBread from "./LatestBread";
 import Icons from "./Icons";
 import SignUp from "./SignUp";
-import Classic from "./classic";
+import Classic from "./Classic";
 
 export default function BreadN() {
   const [formData, setFormData] = useState({

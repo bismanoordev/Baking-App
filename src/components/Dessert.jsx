@@ -13,7 +13,7 @@ import BakingEasy from "./BakingEasy";
 import LatestDessert from "./LatestDessert";
 import Icons from "./Icons";
 import SignUp from "./SignUp";
-import Classic from "./classic";
+import Classic from "./Classic";
 
 
 

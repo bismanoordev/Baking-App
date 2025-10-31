@@ -3,7 +3,7 @@ import { BiSolidMessageRounded } from "react-icons/bi";
 import { FaChevronDown } from "react-icons/fa";
 import Icons from "./Icons";
 import SignUp from "./SignUp";
-import Classic from "./classic";
+import Classic from "./Classic";
 
 export default function AllRecipes() {
 

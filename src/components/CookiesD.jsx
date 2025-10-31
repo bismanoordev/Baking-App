@@ -25,7 +25,7 @@ export default function CookiesD() {
               comment: "Comment",
             },
             {
-              img: "https://sallysbakingaddiction.com/wp-content/uploads/2013/05/classic-chocolate-chip-cookies-600x900.jpg",
+              img: "https://sallysbakingaddiction.com/wp-content/uploads/2013/05/Classic-chocolate-chip-cookies-600x900.jpg",
               title: "Chewy Chocolate Chip Cookies",
               comment: "19 Comment",
             },
